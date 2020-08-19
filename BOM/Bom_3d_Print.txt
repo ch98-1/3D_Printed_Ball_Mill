@@ -1,0 +1,7 @@
+1x Jar
+1x Lid
+1x Chassis
+1x Back Plate
+1x Motor Gear
+2x Shaft
+5x Pin
