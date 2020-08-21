@@ -1,6 +1,5 @@
 EESchema Schematic File Version 4
-LIBS:Ball MIll-cache
-EELAYER 29 0
+EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
@@ -62,6 +61,8 @@ F 3 "~" H 3550 2250 50  0001 C CNN
 	1    3550 2250
 	0    1    1    0   
 $EndComp
+Wire Wire Line
+	3450 1900 3450 2300
 $Comp
 L Connector_Generic:Conn_01x01 J3
 U 1 1 5F3D3FC4
@@ -118,16 +119,14 @@ F 3 "~" H 2000 3000 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
+	3200 1900 3450 1900
+Connection ~ 3450 1900
+Wire Wire Line
+	3450 1900 3550 1900
+Wire Wire Line
 	3550 1900 3550 2050
 Wire Wire Line
 	3350 2100 3350 2550
 Wire Wire Line
 	2650 2100 3350 2100
-Wire Wire Line
-	3200 1900 3550 1900
-Wire Wire Line
-	3350 2100 3450 2100
-Wire Wire Line
-	3450 2100 3450 2300
-Connection ~ 3350 2100
 $EndSCHEMATC
