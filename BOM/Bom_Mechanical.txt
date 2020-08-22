@@ -1,5 +1,6 @@
-4x 608 Bearing
+5x 608 Bearing
 6x m3x6 socket head screw
+4x m3x10 socket head hex screw
 14x m3x12 socket head hex screw
 10x m3 hex nut M=~2.5mm S=~5.5mm
 1x 2 Part Silicone 
